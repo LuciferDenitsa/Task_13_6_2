@@ -12,7 +12,7 @@ namespace Task_13_6_2
         {
             Dictionary<string, int> dictionary = new Dictionary<string, int>();
             string[] words;
-            string path = @"C:\Users\ryche\Desktop\Text_13_6_2.txt";
+            string path = @"C:\Users\ryche\OneDrive\Рабочий стол\Text1.txt";
 
             using (var sr = new StreamReader(path))
             {
